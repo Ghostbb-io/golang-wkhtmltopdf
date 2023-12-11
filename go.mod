@@ -1,4 +1,4 @@
-module github.com/Ghostbb-io/go-wkhtmltopdf
+module github.com/Ghostbb-io/golang-wkhtmltopdf
 
 go 1.19
 
